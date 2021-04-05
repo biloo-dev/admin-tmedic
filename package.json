@@ -1,0 +1,33 @@
+{
+  "name": "admin-webycom",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.9.55",
+    "@nuxtjs/auth-next": "5.0.0-1616003482.75c20e6",
+    "@nuxtjs/axios": "^5.13.1",
+    "core-js": "^3.9.1",
+    "lodash": "^4.17.21",
+    "nuxt": "^2.15.3",
+    "nuxt-i18n": "^6.22.2",
+    "nuxtjs-mdi-font": "^1.0.2",
+    "sweetalert2": "^10.15.7",
+    "vue-chartist": "^2.3.1",
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.1.2",
+    "vuex-class": "^0.3.2",
+    "vuex-persistedstate": "^4.0.0-beta.3",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.3",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}

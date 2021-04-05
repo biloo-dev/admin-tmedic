@@ -1,0 +1,13 @@
+{
+    "home" : "Home",
+    "general" : {
+        "yes" : "Yes !",
+        "no" : "No",
+        "save" : "Save", 
+        "cancel" : "Cancel",
+        "titleAlertLogout" : "Alert",
+        "textAlertLogout" : " Do you really want to leave the site?",
+        "titleAlertDelete":"Are you sure to delete !??",
+        "textAlertDelete":"You won't be able to revert this!"
+    }
+}

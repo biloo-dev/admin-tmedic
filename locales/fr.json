@@ -1,0 +1,40 @@
+{
+    "home" : "Accueil",
+    "general" : {
+        "yes" : "Oui !",
+        "cancel" : "Annuler",
+        "save" : "sauvegarder",
+        "userManagment" : "Gestion des utilisateurs",
+        "roleManagment" : "Gestion des Roles",
+        "newUser" : "Ajouter un utilisateur",
+        "newRole" : "Ajouter un Role",
+        "editUser" : "Modifier un utilisateur",
+        "editRole" : "Modifier un Role",
+        "no" : "Non",
+        "titleAlertLogout" : "Alerte",
+        "textAlertLogout" : "voulez vous vraiment quitter le site?",
+        "titleAlertDelete":"Êtes-vous sûr de vouloir supprimer !?",
+        "textAlertDelete":"Vous ne pourrez pas revenir en arrière !?"
+    },
+    "users" : {
+        "user" : "Utilisateur",
+        "admin" : "administrateur",
+        "male" : "Masculine",
+        "female" : "Féminine",
+        "img" : "image",
+        "name" : "Nom et Prénom",
+        "username" : "Nom d'utilisateur",
+        "sexe" : "Sexe",
+        "type" : "Type d'utilisateur",
+        "phone1" : "Téléphone1",
+        "phone2" : "Téléphone2",
+        "email" : "E-mail",
+        "actions" : "Actions"
+    },
+    "roles" : { 
+        "name" : "Nom ",
+        "num" : "N° ",
+        "description" : "Description",   
+        "actions" : "Actions"
+    }
+}

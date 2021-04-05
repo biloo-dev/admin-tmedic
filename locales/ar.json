@@ -1,0 +1,13 @@
+{
+   "home" :"الصفحة الرئيسية",
+   "general" : {
+        "yes" : "نعم !",
+        "save" : "حفظ", 
+        "no" : "لا",
+        "cancel" : "إلغاء",
+        "titleAlertLogout" : "إنذار",
+        "textAlertLogout" : " هل تريد حقًا مغادرة الموقع؟",
+        "titleAlertDelete":"هل أنت متأكد من الحذف؟",
+        "textAlertDelete":"لن تتمكن من التراجع عن هذا !!"
+    }
+}
